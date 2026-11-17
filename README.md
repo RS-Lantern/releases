@@ -3,7 +3,8 @@
 Downloads for **RS Lantern**, a free, fan-made Old School RuneScape companion shared with friends.
 Get the newest version from **[Releases](../../releases/latest)**.
 
-- **Windows app:** `RS-Lantern-Setup.exe` (or the `.exe` attached to the newest release).
+- **Windows app:** `RS-Lantern.exe`. Double-click it: it installs itself and opens your dashboard. Windows may say it
+  protected your PC; click **More info**, then **Run anyway**.
 - **Claude Desktop extension:** `rs-lantern-<version>.mcpb`.
 
 RS Lantern is unofficial and is not affiliated with, endorsed by or sponsored by Jagex Ltd.
