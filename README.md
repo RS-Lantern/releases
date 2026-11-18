@@ -1,6 +1,6 @@
-<img src="icon.png" width="96" height="96" alt="">
+<img src="banner.png" width="100%" alt="A pixel-art castle by a lake under a full moon">
 
-# RS Lantern downloads
+# <img src="icon.png" width="40" height="40" alt="" align="top"> RS Lantern downloads
 
 Downloads for **RS Lantern**, a free, fan-made Old School RuneScape companion shared with friends.
 Get the newest version from **[Releases](../../releases/latest)**.
