@@ -15,6 +15,11 @@ plugin from the Plugin Hub (the app's Setup page walks you through it).
 Already installed the Windows app? It updates itself: you'll see a note at the top of the dashboard when a new
 version is out, with an **Update** button on the About page.
 
+## Help, ideas and news
+
+Join the **[RS Lantern Discord](https://discord.gg/kNeCfCzrWF)**: ask for help (the app's Setup page has a **Copy diagnostics**
+button for that), share ideas, report problems and hear about new versions first.
+
 ## Licence
 
 RS Lantern is free software under the [BSD 2-Clause licence](LICENSE). It's provided **as is, with no warranty**:
