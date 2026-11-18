@@ -9,6 +9,9 @@ Get the newest version from **[Releases](../../releases/latest)**.
   protected your PC; click **More info**, then **Run anyway**.
 - **Claude Desktop extension:** `rs-lantern-<version>.mcpb`.
 
+**Works on:** Windows 10 and 11, 64-bit. You also need [RuneLite](https://runelite.net) with the **Character Snapshot**
+plugin from the Plugin Hub (the app's Setup page walks you through it).
+
 Already installed the Windows app? It updates itself: you'll see a note at the top of the dashboard when a new
 version is out, with an **Update** button on the About page.
 
