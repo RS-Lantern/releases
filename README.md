@@ -1,3 +1,5 @@
+<img src="icon.png" width="96" height="96" alt="">
+
 # RS Lantern downloads
 
 Downloads for **RS Lantern**, a free, fan-made Old School RuneScape companion shared with friends.
